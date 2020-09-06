@@ -2,7 +2,7 @@ import 'package:dart_cheatsheet_codelab/string_interpolation.dart';
 import 'package:test/test.dart';
 
 void _result(bool result, [List<String> list]) {
-  test('calculate', () {
+  test('interpolation', () {
     expect(result, true, reason: list?.first);
   });
 }
