@@ -7,3 +7,7 @@ build/
 
 # Directory created by dartdoc
 doc/api/
+
+# Created and modified for Mac
+.idea/codeStyles/Project.xml
+.idea/libraries/Dart_SDK.xml
